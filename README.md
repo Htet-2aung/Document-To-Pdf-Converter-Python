@@ -12,7 +12,7 @@ This Python script allows you to convert document files (e.g., .docx, .odt) to P
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/document-converter.git
+   git clone https://github.com/Htet-2aung/Document-To-Pdf-Converter-Python.git
    ```
 
 2. Change to the project directory:
